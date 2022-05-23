@@ -1,0 +1,16 @@
+{
+  "name": "accessServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MaxKulakov/accessServer.git",
+  "author": "MaxKulakov <kulakovmaxim99@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "concurrently": "^7.2.1",
+    "lowdb": "^3.0.0",
+    "nanoid": "^3.3.4",
+    "socket.io": "^4.5.1",
+    "supervisor": "^0.12.0"
+  }
+}
